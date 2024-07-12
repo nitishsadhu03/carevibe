@@ -68,3 +68,5 @@ To see the website in action, check out this [demo](https://carevibe.vercel.app/
 - **SMS Notifications:** Patients receive SMS notifications on appointment confirmation.
 - **File Uploads:** Users can securely upload files using Appwrite storage.
 
+## Screenshots
+![Screenshot 2024-07-12 200414](https://github.com/user-attachments/assets/28057c90-062c-48e4-8fda-05733be6dd79)
